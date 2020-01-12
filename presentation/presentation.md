@@ -63,6 +63,16 @@ Percentage of Viral: *0.7%*
 ![left](3.png)
 
 
+---
+
+# Find Virus in BLAST
+
+**CCACGTATTTTGCAAGCTATTTAACTGGCGGCGATTGCGTACCCGACGACCAAAATTAGG**
+
+
+![](4.png)
+
+
 
 ---
 
