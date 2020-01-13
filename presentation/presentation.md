@@ -65,7 +65,7 @@ Percentage of Viral: *0.7%*
 
 ---
 
-# Find Virus in BLAST
+# Find Virus in [BLAST](https://blast.ncbi.nlm.nih.gov/Blast.cgi)
 
 **CCACGTATTTTGCAAGCTATTTAACTGGCGGCGATTGCGTACCCGACGACCAAAATTAGG**
 
@@ -81,4 +81,7 @@ Percentage of Viral: *0.7%*
 1. Map reads of suggested viruses to actual virus
 2. Frequency of the viruses
 3. Run it on other data (RNA, WGS)
+4. Check %'s with other cut-off points
+
+
 
